@@ -1,25 +1,25 @@
 const featuredCards = [
     {
-        background_image_url:"/logos/bg.png",
-        actor_image_url:"/logos/ac1_large.png",
+        background_image_url:"./logos/bg.png",
+        actor_image_url:"./logos/ac1_large.png",
         actor_name:"Alex Tellas",
         actor_city:"California, USA"
     },
     {
-        background_image_url:"/logos/bg1.png",
-        actor_image_url:"/logos/ac2_large.png",
+        background_image_url:"./logos/bg1.png",
+        actor_image_url:"./logos/ac2_large.png",
         actor_name:"Putri Intan",
         actor_city:"Jakarta, INA"
     },
     {
-        background_image_url:"/logos/bg2.png",
-        actor_image_url:"/logos/ac3_large.png",
+        background_image_url:"./logos/bg2.png",
+        actor_image_url:"./logos/ac3_large.png",
         actor_name:"George Find",
         actor_city:"New York, USA"
     },
     {
-        background_image_url:"/logos/bg.png",
-        actor_image_url:"/logos/ac4_large.png",
+        background_image_url:"./logos/bg.png",
+        actor_image_url:"./logos/ac4_large.png",
         actor_name:"Sarah Sofia",
         actor_city:"Moscow, RUS"
     }
@@ -28,19 +28,19 @@ const featuredCards = [
 
 const feed_cards = [
     {
-        background_image_url:"/logos/bg.png",
+        background_image_url:"./logos/bg.png",
         ending_time:"10h 20m",
         feed_name:"Abstracto #212",
         feed_by:"by Putri Intan",
     },
     {
-        background_image_url:"/logos/bg1.png",
+        background_image_url:"./logos/bg1.png",
         ending_time:"12h 30m",
         feed_name:"Abstracto #312",
         feed_by:"by Putri Intan",
     },
     {
-        background_image_url:"/logos/bg2.png",
+        background_image_url:"./logos/bg2.png",
         ending_time:"14h 45m",
         feed_name:"Abstracto #412",
         feed_by:"by Putri Intan",
@@ -49,19 +49,19 @@ const feed_cards = [
 
 const top_drops = [
     {
-        icon_url:"/logos/ac1_small.png",
+        icon_url:"./logos/ac1_small.png",
         name:"Geomatro #888",
         sold_at:"Sold at 5.42 ETH",
         seen_at:"Just Now"
     },
     {
-        icon_url:"/logos/ac2_small.png",
+        icon_url:"./logos/ac2_small.png",
         name:"Geomatro #888",
         sold_at:"Sold at 5.42 ETH",
         seen_at:"1h ago"
     },
     {
-        icon_url:"/logos/ac3_small.png",
+        icon_url:"./logos/ac3_small.png",
         name:"Geomatro #888",
         sold_at:"Sold at 5.42 ETH",
         seen_at:"2h ago"
@@ -70,31 +70,31 @@ const top_drops = [
 
 const history_cards = [
     {
-        icon_url:"/logos/ac1_small.png",
+        icon_url:"./logos/ac1_small.png",
         name:"BostonHype NFT Sold",
         sold_at:"Sold at 1.42 ETH",
         seen_at:"Just Now"
     },
     {
-        icon_url:"/logos/ac2_small.png",
+        icon_url:"./logos/ac2_small.png",
         name:"New NFT uploaded",
         sold_at:"by Volia Tarmin",
         seen_at:"1h ago"
     },
     {
-        icon_url:"/logos/ac3_small.png",
+        icon_url:"./logos/ac3_small.png",
         name:"You followed an artist",
         sold_at:"Jussica Tan",
         seen_at:"Just Now"
     },
     {
-        icon_url:"/logos/ac4_small.png",
+        icon_url:"./logos/ac4_small.png",
         name:"You followed an artist",
         sold_at:"Jussica Tan",
         seen_at:"Just Now"
     },
     {
-        icon_url:"/logos/ac5_small.png",
+        icon_url:"./logos/ac5_small.png",
         name:"You followed an artist",
         sold_at:"Jussica Tan",
         seen_at:"Just Now"

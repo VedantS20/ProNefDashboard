@@ -167,7 +167,7 @@ main{
 }
   
 .bg {
-background: url("/logos/bg2.png");
+background: url("./logos/bg2.png");
 background-size:cover;
 background-repeat:no-repeat;
 width:100%;
@@ -176,7 +176,7 @@ border-top-right-radius:0.5rem;
 height:8rem;
 }
 .artist-img{
-background:url("/logos/ac1_large.png");
+background:url("./logos/ac1_large.png");
 background-size:90px 90px;
 background-repeat:no-repeat;
 border-radius:50%;
@@ -297,7 +297,7 @@ color:white;
     position:absolute;
     left:-0.5rem;
   }
-  .artist-icon2{ background:url("/logos/ac2_small.png");
+  .artist-icon2{ background:url("./logos/ac2_small.png");
     background-size:50px 50px;
     background-repeat:no-repeat;
     border:solid;
@@ -308,7 +308,7 @@ color:white;
     position:absolute;
     left:2rem;
   }
-  .artist-icon3{ background:url("/logos/ac3_small.png");
+  .artist-icon3{ background:url("./logos/ac3_small.png");
     background-size:50px 50px;
     background-repeat:no-repeat;
     border:solid;
@@ -400,7 +400,7 @@ color:white;
     height: 60px;
     width:60px;
     border-radius: 50%;
-    background:url("/logos/ac1_small.png");
+    background:url("./logos/ac1_small.png");
     /* background-color: yellow; */
     padding-left: 1rem;
 }
